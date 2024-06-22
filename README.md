@@ -1,8 +1,5 @@
 # RainbowBroadcast Plugin for SCP: Secret Laboratory (EXILED)
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Mruczek2137/RainbowBroadcast?include_prereleases)
-![GitHub](https://img.shields.io/github/license/Mruczek2137/RainbowBroadcast)
-
 ## Overview
 
 RainbowBroadcast is a plugin for SCP: Secret Laboratory servers running EXILED that allows server administrators to display a rainbow-colored broadcast message to all players at the start of each round. The color of the message changes dynamically, creating a visually appealing effect.
