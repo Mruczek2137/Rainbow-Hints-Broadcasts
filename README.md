@@ -1,4 +1,4 @@
-# RainbowBroadcast Plugin for SCP: Secret Laboratory (EXILED)
+# RainbowBroadcast Plugin for SCP: Secret Laboratory (EXILED 8.9.6)
 
 ## Overview
 
