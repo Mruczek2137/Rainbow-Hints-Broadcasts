@@ -8,7 +8,7 @@ namespace RainbowBroadcastPlugin
 {
     public class EventHandlers
     {
-        private readonly string[] colors = { "red", "orange", "yellow", "green", "blue", "purple" };
+        private readonly string[] colors = { "red", "orange", "yellow", "green", "blue", "aqua", "purple", "teal" };
 
         public void OnRoundStarted()
         {
